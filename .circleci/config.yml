@@ -34,5 +34,4 @@ workflows:
   say-hello-workflow:
     jobs:
       - say-hello
-      - print-hello
       - print-world
